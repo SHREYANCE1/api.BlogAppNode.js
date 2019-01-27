@@ -1,0 +1,7 @@
+{
+    "name": "Blog Application",
+    "version": "0.0.1",
+    "desciption":"Documentation for the blog app",
+    "title":"Blog API's",
+    "url":"http://localhost:3000"
+}
